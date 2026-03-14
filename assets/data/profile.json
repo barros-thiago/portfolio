@@ -9,48 +9,48 @@
     "hardSkills": [
       {
         "name": "Vb6",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/nodejs.svg"
       },
       {
         "name": "Sql Server",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/sql-server.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/sql-server.svg"
       },
       {
         "name": "Postgres",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/postgres.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/postgres.svg"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/python.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/python.svg"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/git.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/git.svg"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/github-skill.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/github-skill.svg"
       },
       {
         "name": "Windows",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/windows.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/windows.svg"
       },
       {
         "name": "Js",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/js.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/js.svg"
       },
       {
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/html5.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/html5.svg"
       },
       {
         "name": "Css",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/css.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/css.svg"
       }
       ,
       {
         "name": "NodeJs",
-        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/mainassets/img/icons/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/barros-thiago/portfolio/refs/heads/main/assets/img/icons/nodejs.svg"
       }
     ],
     "softSkills": [
